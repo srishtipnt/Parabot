@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Session files
+/auth_info
+
+# Environment variables
+.env
